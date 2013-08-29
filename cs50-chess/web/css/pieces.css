@@ -1,0 +1,50 @@
+.BLACK_ROOK, .BLACK_PAWN, .BLACK_KNIGHT, .BLACK_QUEEN, .BLACK_KING, .BLACK_BISHOP,
+.WHITE_ROOK, .WHITE_PAWN, .WHITE_KNIGHT, .WHITE_QUEEN, .WHITE_KING, .WHITE_BISHOP { height: 50px;}
+
+.BLACK_ROOK {
+	background: url(../img/bRook.png);
+}
+
+.BLACK_PAWN {
+	background: url(../img/bPawn.png);
+}
+
+.BLACK_KNIGHT {
+	background: url(../img/bKnight.png);
+}
+
+.BLACK_QUEEN {
+	background: url(../img/bQueen.png);
+}
+
+.BLACK_KING {
+	background: url(../img/bKing.png);
+}
+
+.BLACK_BISHOP {
+	background: url(../img/bBishop.png);
+}
+
+.WHITE_ROOK {
+	background: url(../img/wRook.png);
+}
+
+.WHITE_PAWN {
+	background: url(../img/wPawn.png);
+}
+
+.WHITE_KNIGHT {
+	background: url(../img/wKnight.png);
+}
+
+.WHITE_QUEEN {
+	background: url(../img/wQueen.png);
+}
+
+.WHITE_KING {
+	background: url(../img/wKing.png);
+}
+
+.WHITE_BISHOP {
+	background: url(../img/wBishop.png);
+}

@@ -1,0 +1,308 @@
+From acctserv@hcs.harvard.edu  Sat Dec  1 21:33:32 2012
+Return-Path: <acctserv@hcs.harvard.edu>
+X-Original-To: cs50-chess@hcs.harvard.edu
+Delivered-To: cs50-chess@hcs.harvard.edu
+Received: from localhost (localhost [127.0.0.1])
+	by flavius.hcs.harvard.edu (Postfix) with ESMTP id 90F5418C77
+	for <cs50-chess@hcs.harvard.edu>; Sat,  1 Dec 2012 21:33:32 -0500 (EST)
+X-Virus-Scanned: Debian amavisd-new at flavius.hcs.harvard.edu
+X-Spam-Flag: NO
+X-Spam-Score: -2.455
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.455 required=6.31 tests=[AWL=0.145,
+	BAYES_00=-2.599, SPF_PASS=-0.001]
+Received: from flavius.hcs.harvard.edu ([127.0.0.1])
+	by localhost (flavius.hcs.harvard.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vrKkWDpVPkfW for <cs50-chess@hcs.harvard.edu>;
+	Sat,  1 Dec 2012 21:33:32 -0500 (EST)
+Received: from cato.hcs.harvard.edu (cato.hcs.harvard.edu [140.247.89.163])
+	by flavius.hcs.harvard.edu (Postfix) with ESMTP id 6533618233
+	for <cs50-chess@hcs.harvard.edu>; Sat,  1 Dec 2012 21:33:32 -0500 (EST)
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Info about your HCS account
+From: acctserv@hcs.harvard.edu
+To: cs50-chess@hcs.harvard.edu
+CC: 
+Date: Sat, 01 Dec 2012 21:33:32 -0500
+Message-Id: <20121202023332.6533618233@flavius.hcs.harvard.edu>
+Content-Length: 1567
+X-IMAPbase: 1354418277 5
+Status: OR
+X-UID: 1
+
+HCS Account Information
+-----------------------
+
+Welcome to HCS! We're glad to have you on board. 
+
+This document contains some basic information about your HCS account.
+If you have any questions at all, don't hesitate to contact us at
+<acctserv@hcs.harvard.edu> or to stop by our office hours.  Office
+hours are listed at http://www.hcs.harvard.edu/events.
+
+Email: Group addresses on the hcs machine are group@hcs.harvard.edu.
+We recommend alpine for reading mail, though you might prefer mutt if
+you take the time to learn it. You can also forward mail to other
+accounts. See www.hcs.harvard.edu/tutorials for details.
+
+Disk Space: 2 gigabytes is the default quota for groups on hcs.
+
+Mailing Lists, WWW, and other services: All of these are dealt with in
+separate documents. You've received another email with information
+about how to set up your group's web site. For other questions, please
+see our FAQ at http://www.hcs.harvard.edu/faq and our tutorials at
+http://www.hcs.harvard.edu/tutorials.
+
+Again, if you have any questions or concerns, don't hesitate to
+contact us. Enjoy your new account!
+
+-- 
+/-------------------------------------------------------------------------\
+|  Account Services                             acctserv@hcs.harvard.edu  |
+|  Harvard Computer Society        <http://www.hcs.harvard.edu/acctserv>  |
+|                                                                         |    
+|             Office hours listed at <http://www.hcs.harvard.edu/events>  |
+\-------------------------------------------------------------------------/
+
+From acctserv@hcs.harvard.edu  Sat Dec  1 21:33:35 2012
+Return-Path: <acctserv@hcs.harvard.edu>
+X-Original-To: cs50-chess@hcs.harvard.edu
+Delivered-To: cs50-chess@hcs.harvard.edu
+Received: from localhost (localhost [127.0.0.1])
+	by flavius.hcs.harvard.edu (Postfix) with ESMTP id BC15318233;
+	Sat,  1 Dec 2012 21:33:35 -0500 (EST)
+X-Virus-Scanned: Debian amavisd-new at flavius.hcs.harvard.edu
+X-Spam-Flag: NO
+X-Spam-Score: -2.455
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.455 required=6.31 tests=[AWL=0.145,
+	BAYES_00=-2.599, FM_IS_IT_OUR_ACCOUNT=0, SPF_PASS=-0.001]
+Received: from flavius.hcs.harvard.edu ([127.0.0.1])
+	by localhost (flavius.hcs.harvard.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id IAyQyzKGSLJI; Sat,  1 Dec 2012 21:33:31 -0500 (EST)
+Received: from cato.hcs.harvard.edu (cato.hcs.harvard.edu [140.247.89.163])
+	by flavius.hcs.harvard.edu (Postfix) with ESMTP id B2BF0180E2;
+	Sat,  1 Dec 2012 21:33:31 -0500 (EST)
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Your new HCS account: cs50-chess@hcs
+From: acctserv@hcs.harvard.edu
+To: cs50-chess@hcs.harvard.edu
+CC: oliverkim@college.harvard.edu, oliverkim@fas.harvard.edu,
+	rogerhuang@college.harvard.edu, rogerhuang@fas.harvard.edu
+Date: Sat, 01 Dec 2012 21:33:31 -0500
+Message-Id: <20121202023331.B2BF0180E2@flavius.hcs.harvard.edu>
+Content-Length: 2278
+Status: OR
+X-UID: 2
+
+Hello,
+
+Congratulations!  Your brand new HCS group account has been created as
+"cs50-chess".  We are using "ssh" access; to use the account,
+simply type ssh cs50-chess@hcs.harvard.edu from the prompt on any
+fas.harvard.edu server.
+
+The following FAS users have ssh access to the account:
+ + oliverkim@fas.harvard.edu
+ + rogerhuang@fas.harvard.edu
+
+The following email addresses have access to the account through Harvard
+PIN authentication:
+ + oliverkim@college.harvard.edu
+ + oliverkim@fas.harvard.edu
+ + rogerhuang@college.harvard.edu
+ + rogerhuang@fas.harvard.edu
+
+If you have PIN access, you can view email for your account by visiting
+https://mail.hcs.harvard.edu/ and pressing the PIN System login button.
+
+To give other people access to the account or to stop their access to
+the account, simply log into your account and type "access" at the
+prompt, and follow the instructions (you'll probably want option E).
+
+The newly created account has been emailed two introductory documents;
+one desribes account policies and such, and the other describes how to
+use your account to serve Web pages.  If you requested a mySQL database,
+a third email containing your username, database name, and password has
+also been sent to your account.  We'd also like to point your
+attention to the Account Services FAQ at http://www.hcs.harvard.edu/faq
+and our introductory tutorials at http://www.hcs.harvard.edu/tutorials.
+In particular, see the tutorials for information on checking your
+account's e-mail.
+
+If you ever have any questions, comments, or problems regarding any of
+our services, feel free to contact the HCS Account Services team at
+acctserv@hcs.harvard.edu.  They'll be happy to assist you and/or make
+suggestions on how your group can take full advantage of the services
+we offer.
+
+Thank you for using HCS!
+
+-- 
+/-------------------------------------------------------------------------\
+|  Account Services                             acctserv@hcs.harvard.edu  |
+|  Harvard Computer Society        <http://www.hcs.harvard.edu/acctserv>  |
+|                                                                         |    
+|             Office hours listed at <http://www.hcs.harvard.edu/events>  |
+\-------------------------------------------------------------------------/
+
+From acctserv@hcs.harvard.edu  Sat Dec  1 21:33:36 2012
+Return-Path: <acctserv@hcs.harvard.edu>
+X-Original-To: cs50-chess@hcs.harvard.edu
+Delivered-To: cs50-chess@hcs.harvard.edu
+Received: from localhost (localhost [127.0.0.1])
+	by flavius.hcs.harvard.edu (Postfix) with ESMTP id 13518180E2
+	for <cs50-chess@hcs.harvard.edu>; Sat,  1 Dec 2012 21:33:36 -0500 (EST)
+X-Virus-Scanned: Debian amavisd-new at flavius.hcs.harvard.edu
+X-Spam-Flag: NO
+X-Spam-Score: -2.455
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.455 required=6.31 tests=[AWL=0.145,
+	BAYES_00=-2.599, SPF_PASS=-0.001]
+Received: from flavius.hcs.harvard.edu ([127.0.0.1])
+	by localhost (flavius.hcs.harvard.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1nnpA6UaJvzQ for <cs50-chess@hcs.harvard.edu>;
+	Sat,  1 Dec 2012 21:33:32 -0500 (EST)
+Received: from cato.hcs.harvard.edu (cato.hcs.harvard.edu [140.247.89.163])
+	by flavius.hcs.harvard.edu (Postfix) with ESMTP id D09CF18105
+	for <cs50-chess@hcs.harvard.edu>; Sat,  1 Dec 2012 21:33:31 -0500 (EST)
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Your HCS web hosting
+From: acctserv@hcs.harvard.edu
+To: cs50-chess@hcs.harvard.edu
+CC: 
+Date: Sat, 01 Dec 2012 21:33:31 -0500
+Message-Id: <20121202023331.D09CF18105@flavius.hcs.harvard.edu>
+Content-Length: 2246
+Status: OR
+X-UID: 3
+
+Your HCS Web Site
+----------------
+
+With your HCS account comes a web site.  We support a variety of
+languages and database-driven apps: PHP, Wordpress, and Ruby on Rails,
+just to name a few.  If you want to keep it simple, your static HTML
+site is welcome as well.
+
+Your site's URL, which you might tell to people interested in your
+group, is
+     http://www.hcs.harvard.edu/cs50-chess
+
+On your fas.harvard.edu account, you publish your website by putting
+it in a directory called `public_html'; on HCS, we call this directory
+`web'.  To create such a directory, type "mkdir web" at the prompt.
+
+Once you've created the web directory, you may want to populate it
+with some web pages. You can upload files to hcs using sftp, in the
+same way that you upload files to FAS (for Windows users this means
+using SecureFX or WinSCP, for Mac users probably Cyberduck). First, 
+however, because HCS accounts do not have passwords you'll need
+to create a temporary one.
+
+To do this, connect to your hcs account and type the command "sftppasswd."
+You'll be prompted for a password, which you should use to connect through
+sftp. At 4AM every morning, these sftp passwords are reset.
+
+The details for connecting to the account through sftp are:
+
+hostname: hcs.harvard.edu
+username: cs50-chess
+password: the password you just set
+
+Finally, you'll need to make sure the permissions on the files for your
+site are correct.  We have a script set up to make this easy - 
+just type "fixwebfiles" at the prompt.
+
+We're happy to provide basic help getting started: simply send your
+questions to acctserv@hcs.harvard.edu, or stop by our office hours
+(schedule at http://www.hcs.harvard.edu/events). You can also read our
+tutorials at www.hcs.harvard.edu/tutorials.
+
+Best of luck with your new web site!
+
+-- 
+/-------------------------------------------------------------------------\
+|  Account Services                             acctserv@hcs.harvard.edu  |
+|  Harvard Computer Society        <http://www.hcs.harvard.edu/acctserv>  |
+|                                                                         |    
+|             Office hours listed at <http://www.hcs.harvard.edu/events>  |
+\-------------------------------------------------------------------------/
+
+From acctserv@hcs.harvard.edu  Sat Dec  1 22:25:13 2012
+Return-Path: <acctserv@hcs.harvard.edu>
+X-Original-To: cs50-chess@hcs.harvard.edu
+Delivered-To: cs50-chess@hcs.harvard.edu
+Received: from localhost (localhost [127.0.0.1])
+	by augustus.hcs.harvard.edu (Postfix) with ESMTP id 73BF520339
+	for <cs50-chess@hcs.harvard.edu>; Sat,  1 Dec 2012 22:25:13 -0500 (EST)
+X-Virus-Scanned: Debian amavisd-new at augustus.hcs.harvard.edu
+X-Spam-Flag: NO
+X-Spam-Score: -2.507
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.507 required=6.31 tests=[AWL=0.093,
+	BAYES_00=-2.599, SPF_PASS=-0.001]
+Received: from augustus.hcs.harvard.edu ([127.0.0.1])
+	by localhost (augustus.hcs.harvard.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NhD5TH1VL6eZ for <cs50-chess@hcs.harvard.edu>;
+	Sat,  1 Dec 2012 22:25:07 -0500 (EST)
+Received: from cato.hcs.harvard.edu (cato.hcs.harvard.edu [140.247.89.163])
+	by augustus.hcs.harvard.edu (Postfix) with ESMTP id 56F0E202DD
+	for <cs50-chess@hcs.harvard.edu>; Sat,  1 Dec 2012 22:25:07 -0500 (EST)
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Your MySQL database password has been changed
+From: acctserv@hcs.harvard.edu
+To: cs50-chess@hcs.harvard.edu
+CC: 
+Date: Sat, 01 Dec 2012 22:25:07 -0500
+Message-Id: <20121202032507.56F0E202DD@augustus.hcs.harvard.edu>
+Content-Length: 1608
+Status: OR
+X-UID: 4
+
+HCS Account Information
+-----------------------
+
+Hello! We have reset your mysql database password. Your new password is:
+r4ZFgwenKwaR
+
+This document contains some basic information about how to use this
+service.  If you have any questions at all, don't hesitate to contact
+us at <help@hcs.harvard.edu> or to stop by our office hours. Our office
+hours schedule is available at <http://www.hcs.harvard.edu/events>.
+
+First, HCS runs a useful tool called phpMyAdmin at
+https://www.hcs.harvard.edu/phpmyadmin/. You can view and modify many
+of your database settings here, and you can see which databases your
+account currently has access to. If you would like a new database,
+just send us an email at <help@hcs.harvard.edu>.
+
+You can also access your MySQL database from the command line by
+typing mysql -h mysql -u cs50-chess -p at the command
+prompt. At the enter password prompt, type in your password:
+r4ZFgwenKwaR
+
+Some settings you would use in connecting to the database in a php script:
+DBUSER = cs50-chess
+DBPASS = r4ZFgwenKwaR
+DBSERVER = mysql.hcs.harvard.edu
+
+Again, if you have any questions or concerns, don't hesitate to
+contact us.
+
+-- 
+/-------------------------------------------------------------------------\
+|  Account Services                             acctserv@hcs.harvard.edu  |
+|  Harvard Computer Society        <http://www.hcs.harvard.edu/acctserv>  |
+|                                                                         |    
+|             Office hours listed at <http://www.hcs.harvard.edu/events>  |
+\-------------------------------------------------------------------------/
+
